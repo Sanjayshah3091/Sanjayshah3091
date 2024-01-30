@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Sanjay Shah
+<h1 align="center">Hi 👋, I'm Sanjay shah</h1>
+<h3 align="center">A passionate frontend Developer from India 🖥️</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 - 👀 I’m interested in programming 
 - 🌱 I’m currently pursuing BTech in (D.S)
 - 💞️ I’m looking to collaborate on
