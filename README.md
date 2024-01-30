@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sanjay Shah
 - 👀 I’m interested in programming 
-- 🌱 I’m currently pursuing BTech in data science 
-- 💞️ I’m looking to collaborate on cyber security 
+- 🌱 I’m currently pursuing BTech in (D.S)
+- 💞️ I’m looking to collaborate on
+  👉🧸 cyber security
 - 📫 How to reach me 📬 sanjayshah3091@gmail.com
 
 <!---
